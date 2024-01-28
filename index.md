@@ -4,10 +4,14 @@
 ### I am trying to find out how to work with this code, so just wait for it :))
 <img src="images/wait.jpg?raw=true"/>
 
-P.S: ALso still have nothing in my portfolio to show...
+P.S: Also still have nothing in my portfolio to show...
+
+---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- Remove above link if you don't want to attibute -->
+
+
 <!---
-
-
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -30,11 +34,9 @@ P.S: ALso still have nothing in my portfolio to show...
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
 -->
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+
+
+
 
