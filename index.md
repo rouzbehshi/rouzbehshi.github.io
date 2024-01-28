@@ -2,7 +2,7 @@
 
 ---
 ### I am trying to find out how to work with this code, so just wait for it :))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/wait.jpg?raw=true"/>
 
 P.S: ALso still have nothing in my portfolio to show...
 <!---
