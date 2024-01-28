@@ -1,8 +1,12 @@
 ## Portfolio
 
 ---
+### I am trying to find out how to work with this code, so just wait for it :))
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+P.S: ALso still have nothing in my portfolio to show...
 <!---
-### Category Name 1 
+
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
