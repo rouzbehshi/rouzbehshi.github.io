@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-### I am trying to find out how to work with this code, so just wait for it :))
+### I am trying to figure out how to work with this code, so just wait for it :))
 <img src="images/wait.jpg?raw=true"/>
 
 P.S: Also still have nothing in my portfolio to show...
